@@ -7,3 +7,5 @@ sa si su se so
 asdfasdgag
 
 ブランチ作ってプッシュしてみるお
+
+git flow プラグインを追加して編集してるお
