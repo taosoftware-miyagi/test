@@ -1,0 +1,11 @@
+aiueo ka ki ku ke ko
+
+sa si su se so
+
+こちらも変更した。漢字の行もたしてみた
+さらに行追加
+asdfasdgag
+
+ブランチ作ってプッシュしてみるお
+
+git flow プラグインを追加して編集してるお
